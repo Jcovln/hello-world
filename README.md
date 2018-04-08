@@ -1,2 +1,3 @@
 # hello-world
-A test repository for learning
+## A test repository for learning
+### Learning to Format README
